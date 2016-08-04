@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://iss.edu.tama.ac.jp:3306/u21611223?characterEncoding=UTF-8
+    username: u21611223
+    password: windows
+    driver-class-name: com.mysql.jdbc.Driver
